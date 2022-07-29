@@ -1,8 +1,23 @@
-### Hi there 👋
+### Hi there 👋, my name is Volodimirus
+#### I am full-stack web developer
+![I am full-stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning firebase and using him in my projects
+Instead of school I learn programming and computer science.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Volodimirus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volodimirus&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Volodimirus&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Skills: MongoDB, Exress, React, Node.js
+
+- 🔭 I’m currently working on my website portfolio 
+- 🌱 I’m currently learning Firebase 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Volodimirus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vportfolio (Website in process))  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Volodimirus)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volodimirus)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Volodimirus&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Volodimirus)  
+
+![Profile views](https://gpvc.arturio.dev/Volodimirus)  
