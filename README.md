@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Volodimirus
 #### I am full-stack web developer
-![I am full-stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Instead of school I learn programming and computer science.
 
