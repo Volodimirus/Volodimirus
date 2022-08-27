@@ -6,7 +6,7 @@ Instead of school I learn programming and computer science.
 Skills: MongoDB, Exress, React, Node.js
 
 - 🔭 I’m currently working on my website portfolio 
-- 🌱 I’m currently some JS libraries
+- 🌱 I’m currently learning some JS libraries
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Volodimirus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vportfolio (Website in process))  
