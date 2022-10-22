@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Volodimirus
 #### I am full-stack web developer
 
-Instead of school I learn programming and computer science.
+I learn programming and computer science.
 
 Skills: MongoDB, Exress, React, Node.js
 
